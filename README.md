@@ -9,7 +9,7 @@ Proficient in structuring problem definitions, identifying key gaps, and impleme
 Skilled in Python, PySpark, SQL and Driverless AI for implementing Machine Learning and Deep Learning algorithms.
 A hardcore learner by passion.
 
-Welcome to my github profile where I like to put my knowledge of Machine Learning and AI in the form of codes.
+Welcome to my github profile where I like to put my knowledge of Machine Learning and AI in the form of codes. From Classical ML Algorithms from scratch to reinforcement learning to Generative AI, this GitHub Repository, showcases the breadth of Machine Learning I am involved and interested in.
 
 I am still learning and there's miles to go before I sleep, miles to go before I sleep.
 
