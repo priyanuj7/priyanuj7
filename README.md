@@ -1,7 +1,7 @@
 Hi, I am Priyanuj. 
 
 I am a Data Scientist with 7+ years of experience in leveraging Advanced Analytics to drive strategic business decisions for Fortune 50 clients across Retail, BFSI and telecom industries. 
-I am currently working as a Senior Data Scient Manager at Miral Experiences LLC.
+I am currently working as a Senior Data Science Manager at Miral Experiences LLC.
 Prior to Miral, I was working as a Data Scientist in Customer Analytics and Campaign Management vertical for Etisalat e& UAE.
 Previously served as a Senior Data Scientist in the COE team for Consumer, Small Business and Banking at Wells Fargo. 
 Prior to this, partnered closely with one of the largest Home Improvement Retailers in the US to enhance customer analytics and campaign management during my tenure in MuSigma.
